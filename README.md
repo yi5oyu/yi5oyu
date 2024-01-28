@@ -1,6 +1,6 @@
 <header>
-  <div fontsize="20px", align="center">이기영</div>
-  <div fontsize="14px", align="center", color="gray">Lee Gi-Young</div>
+  <div style="font-size: 20px; text-align: center;">이기영</div>
+  <div style="font-size: 14px; text-align: center; color: gray;">Lee Gi-Young</div>
 </header>
 
 
