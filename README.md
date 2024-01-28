@@ -75,6 +75,8 @@
 <img src="https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSTL-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/EL-007396?style=flat-square&logo=java&logoColor=white"/>
 
 <!-- https://simpleicons.org/?q=java --></br>
 <!-- 기술블로그 끝 -->
