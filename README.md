@@ -1,5 +1,8 @@
-<h1 align="center"> 이기영</h1>
-<h3 align="center"> Lee Gi-Young</h3>
+<header>
+  <div fontsize="20px", align="center">이기영</div>
+  <div fontsize="14px", align="center", color="gray">Lee Gi-Young</div>
+</header>
+
 
 <!--
 **yi5oyu/yi5oyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
