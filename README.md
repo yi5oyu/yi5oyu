@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"> 이기영</h1>
+<h3 align="center"> Lee Gi-Young</h3>
 
 <!--
 **yi5oyu/yi5oyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
