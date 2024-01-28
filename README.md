@@ -43,14 +43,13 @@
   <h4><b>Backend</b></h4>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
+  <img src="https://img.shields.io/badge/JSP-black?style=flat-square&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Servlet-008CDD?style=flat-square&logo=Stripe&logoColor=white">
   
   <h4><b>Database</b></h4>
   <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> -->
-  
-  <img src="https://img.shields.io/badge/JSP-black?style=flat-square&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Servlet-008CDD?style=flat-square&logo=Stripe&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> -->
-  <!-- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-C41E25?style=flat-square&logo=Thunderbird&logoColor=white"/>
