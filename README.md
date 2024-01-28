@@ -25,8 +25,9 @@
 <!-- 교육사항 끝 -->
 
 <!-- 기술스택 시작 -->
-<div align='left'><h3><b>🛠 Tech Stack </b></h3>
+<div align='left'><h3><b>🛠 Skills </b></h3>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 <!--<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>-->
@@ -36,6 +37,7 @@
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>-->
 <!--<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>-->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
 <!--<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>-->
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -44,6 +46,10 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"> 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white">
+<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-004040?style=flat-square&logo=rest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mustache-724E58?style=flat-square&logo=mustache&logoColor=white"/>
+
 <!--<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">-->
 
 <img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/>
@@ -51,6 +57,9 @@
 <!--<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>-->
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+
 <!--<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>-->
 <!--<img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>-->
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
