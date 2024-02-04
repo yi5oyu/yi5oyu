@@ -104,7 +104,7 @@
 
 <br>
 
- ###  📖 [**Study**](https://github.com/yi5oyu/study)
+ ###  📖 [**Study**](https://github.com/yi5oyu/Study)
 
 <hr>
 <h3><b> 💻 Project </b></h3>
