@@ -25,7 +25,7 @@
  교육사항 끝 -->
 
 <!-- 기술스택 시작 -->
-<div align='left'><h2><b>🛠 Skills </b></h2>
+<div align='left'><h3><b>🛠 Skills </b></h3>
  
 <!-- front -->
 <p>
@@ -95,10 +95,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <!-- </details>-->
 
-<!-- -->
-<br>
-<h2><b> 💻 Project </b></h2>
-
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">-->
@@ -106,9 +102,18 @@
 <!--<img src="https://img.shields.io/badge/Spring_Data_Redis-6DB33F?style=flat-square&logo=spring&logoColor=white"/> -->
 <!--<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>-->
 
+<!-- -->
+<br>
+<hr>
+<h3><b> 💻 Project </b></h3>
+<h4>팀 프로젝트</h4>
+| 2 | 2 | 2 |   | 2 |
+|---|---|---|---|---|
+|   |   | 2 | 2 | 2 |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
-
-
+<hr>
 <!-- https://simpleicons.org/?q=java --></br>
 <!-- 기술블로그 끝 -->
 
@@ -123,7 +128,7 @@
 <!-- 연락처 끝 -->
 
 </br>
-<h2><b> 🔭 Github Stats </b></h2>
+<h3><b> 🔭 Github Stats </b></h3>
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/yi5oyu/github-readme-stats">
