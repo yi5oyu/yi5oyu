@@ -82,7 +82,7 @@
 <!-- -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-
+<p>
 </p>
 
 <!-- <details> -->
@@ -107,6 +107,7 @@
 <hr>
 <h3><b> 💻 Project </b></h3>
 <h4>팀 프로젝트</h4>
+
 | 2 | 2 | 2 |   | 2 |
 |---|---|---|---|---|
 |   |   | 2 | 2 | 2 |
