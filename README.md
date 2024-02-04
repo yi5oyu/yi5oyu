@@ -109,13 +109,14 @@
 <hr>
 <h3><b> 💻 Project </b></h3>
 
+ 
 - 팀 프로젝트
   - [**Recipick**](https://github.com/yi5oyu/FOOD)&nbsp;&nbsp;&nbsp;( 2023.08 ~ 2023.11 )
 * 개인 프로젝트
   * [**CashFlow**](https://github.com/yi5oyu/cashflow)&nbsp;&nbsp;&nbsp;( 2024.01 ~ )
   * [**C# WPF**](https://github.com/yi5oyu/WPFMVVM)&nbsp;&nbsp;&nbsp;( 2021.02 ~ )
+    
 
-<br>
 <hr>
 <!-- https://simpleicons.org/?q=java -->
 <!-- 기술블로그 끝 -->
