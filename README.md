@@ -25,7 +25,7 @@
  교육사항 끝 -->
 
 <!-- 기술스택 시작 -->
-<div align='left'><h3><b>🛠 Skills </b></h3>
+<div align='left'><h2><b>🛠 Skills </b></h2>
  
 <!-- front -->
 <p>
@@ -69,7 +69,6 @@
 <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">
 <img src="https://img.shields.io/badge/AWS_RDS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">
 
-
 </p>
 <!-- -->
 
@@ -86,32 +85,26 @@
 
 </p>
 
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
-</summary>
-   <br>
+<!-- <details> -->
+<!-- <summary> -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 Skills
+<!-- </summary> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://jwt.io/img/logo-asset.svg" height="20">
-
-
-</details>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+<!-- </details>-->
 
 <!-- -->
-
-
-
+<br>
+<h2><b> 💻 Project </b></h2>
 
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>-->
-<!--<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>-->
 <!--<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">-->
 <!--<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> -->
 <!--<img src="https://img.shields.io/badge/Spring_Data_Redis-6DB33F?style=flat-square&logo=spring&logoColor=white"/> -->
-<!--<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>-->
-<!--<img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>-->
 
 
 
@@ -130,7 +123,7 @@
 <!-- 연락처 끝 -->
 
 </br>
-<h3><b> 🔭 Github Stats </b></h3>
+<h2><b> 🔭 Github Stats </b></h2>
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/yi5oyu/github-readme-stats">
