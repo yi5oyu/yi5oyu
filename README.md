@@ -102,20 +102,22 @@
 <!--<img src="https://img.shields.io/badge/Spring_Data_Redis-6DB33F?style=flat-square&logo=spring&logoColor=white"/> -->
 <!--<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>-->
 
-<!-- -->
 <br>
+
+ ###  📖 [**Study**](https://github.com/yi5oyu/study)
+
 <hr>
 <h3><b> 💻 Project </b></h3>
-<h4>팀 프로젝트</h4>
 
-| 2 | 2 | 2 |   | 2 |
-|---|---|---|---|---|
-|   |   | 2 | 2 | 2 |
-|   |   |   |   |   |
-|   |   |   |   |   |
+- 팀 프로젝트
+  - [**Recipick**](https://github.com/yi5oyu/FOOD)&nbsp;&nbsp;&nbsp;( 2023.08 ~ 2023.11 )
+* 개인 프로젝트
+  * [**CashFlow**](https://github.com/yi5oyu/cashflow)&nbsp;&nbsp;&nbsp;( 2024.01 ~ )
+  * [**C# WPF**](https://github.com/yi5oyu/WPFMVVM)&nbsp;&nbsp;&nbsp;( 2021.02 ~ )
 
+<br>
 <hr>
-<!-- https://simpleicons.org/?q=java --></br>
+<!-- https://simpleicons.org/?q=java -->
 <!-- 기술블로그 끝 -->
 
 <!-- 연락처 시작 -->
@@ -128,7 +130,6 @@
 -->
 <!-- 연락처 끝 -->
 
-</br>
 <h3><b> 🔭 Github Stats </b></h3>
 
 <div style="display: flex; justify-content: space-between;">
