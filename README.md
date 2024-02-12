@@ -94,6 +94,8 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://jwt.io/img/logo-asset.svg" height="20">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jenkins-CB3234?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" alt="Nginx">
 <!-- </details>-->
 
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>-->
@@ -105,7 +107,7 @@
 
 <br>
 
- ###  📖 [**Study**](https://github.com/yi5oyu/Study)
+ ##  📖 [**Study**](https://github.com/yi5oyu/Study)
 
 <hr>
 <h3><b> 💻 Project </b></h3>
