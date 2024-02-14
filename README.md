@@ -78,11 +78,12 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Mermaid-0076BF?style=flat-square&logo=mermaid&logoColor=white"/>  
 <br>
 <!-- -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Mermaid-0076BF?style=flat-square&logo=mermaid&logoColor=white"/>  
 <p>
 </p>
 
