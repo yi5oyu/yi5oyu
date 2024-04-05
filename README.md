@@ -48,8 +48,8 @@
 <img src="https://img.shields.io/badge/Mustache-724E58?style=flat-square&logo=mustache&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white">
-<img src="https://img.shields.io/badge/REST_API-004040?style=flat-square&logo=rest&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/REST_API-004040?style=flat-square&logo=rest&logoColor=white"/> -->
 <br>
 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
