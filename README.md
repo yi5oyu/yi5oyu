@@ -36,18 +36,21 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 <p>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-black?style=flat-square&logo=java&logoColor=white"> 
-<!-- <img src="https://img.shields.io/badge/Servlet-008CDD?style=flat-square&logo=Stripe&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Servlet-008CDD?style=flat-square&logo=Stripe&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/JSTL-007396?style=flat-square&logo=java&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/EL-007396?style=flat-square&logo=java&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/MyBatis-C41E25?style=flat-square&logo=Thunderbird&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+
 <!-- <img src="https://img.shields.io/badge/Mustache-724E58?style=flat-square&logo=mustache&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+
 <!-- <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/REST_API-004040?style=flat-square&logo=rest&logoColor=white"/> -->
 <br>
