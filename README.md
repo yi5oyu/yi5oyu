@@ -54,6 +54,7 @@
 <!-- <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/REST_API-004040?style=flat-square&logo=rest&logoColor=white"/> -->
 <br>
+<img src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white">
 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
@@ -98,10 +99,9 @@
 <!-- <summary> -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 배우고 있는 Skills
 <!-- </summary> -->
-
+<img src="https://img.shields.io/badge/react.js-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <!-- <img src="https://jwt.io/img/logo-asset.svg" height="20"> -->
-
   <img src="https://img.shields.io/badge/Jenkins-CB3234?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
 
 <!-- </details>-->
