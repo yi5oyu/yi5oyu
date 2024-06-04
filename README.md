@@ -54,7 +54,6 @@
 <!-- <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/REST_API-004040?style=flat-square&logo=rest&logoColor=white"/> -->
 <br>
-<img src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white">
 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
@@ -67,6 +66,8 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" alt="Nginx">
+ <img src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white">
+
 <br>
  <!-- db -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
