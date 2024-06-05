@@ -77,6 +77,7 @@
 <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">
 <img src="https://img.shields.io/badge/AWS_RDS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_Linux-2023-232F3E?style=flat-square&logo=Amazon&logoColor=white"/>
+<img src="https://img.shields.io/badge/CentOS%207-262577?style=flat-square&logo=CentOS&logoColor=white">
 </p>
 <!-- -->
 
