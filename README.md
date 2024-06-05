@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" alt="Nginx">
- <img src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white">
+<img src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white">
 
 <br>
  <!-- db -->
