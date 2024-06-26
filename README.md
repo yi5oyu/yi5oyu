@@ -48,7 +48,8 @@
 <!-- <img src="https://img.shields.io/badge/EL-007396?style=flat-square&logo=java&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/MyBatis-C41E25?style=flat-square&logo=Thunderbird&logoColor=white"/>
 <br>
-
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/Mustache-724E58?style=flat-square&logo=mustache&logoColor=white"/> -->
 
 <!-- <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white"> -->
@@ -58,8 +59,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+
 </p>
 <p>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
