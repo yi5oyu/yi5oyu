@@ -105,6 +105,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <!-- <img src="https://jwt.io/img/logo-asset.svg" height="20"> -->
   <img src="https://img.shields.io/badge/Jenkins-CB3234?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 
 <!-- </details>-->
 
