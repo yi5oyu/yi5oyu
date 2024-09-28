@@ -26,7 +26,8 @@
 
 <!-- 기술스택 시작 -->
 <div align='left'><h3><b>🛠 Skills </b></h3>
- 
+
+<!-- react-native, github action -->
 <!-- front -->
 <p>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
