@@ -34,7 +34,10 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"> 
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"><br>
+<img src="https://img.shields.io/badge/react.js-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+
 </p>
 <p>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
@@ -66,8 +69,9 @@
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" alt="Nginx">
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" alt="Nginx"><br>
 <img src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 
 <br>
  <!-- db -->
@@ -102,7 +106,7 @@
 <!-- <summary> -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 배우고 있는 Skills
 <!-- </summary> -->
-<img src="https://img.shields.io/badge/react.js-61DAFB?style=flat-square&logo=react&logoColor=black">
+
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <!-- <img src="https://jwt.io/img/logo-asset.svg" height="20"> -->
   <img src="https://img.shields.io/badge/Jenkins-CB3234?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
