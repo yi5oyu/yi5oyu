@@ -1,17 +1,31 @@
 <!-- 자기소개 시작 -->
+
+
 <div>
 <br>
+
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=5cc4ef&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Lee+Gi-Young++&nbsp;&nbsp;&nbsp;)
+
+<!--https://github.com/kyechan99/capsule-render
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=black&height=70&section=header&text=Study%Reference%Components&fontSize=16&&fontColor=FFFFFF&animation=fadeIn)
+-->
+
 </div>
- 
+
 * * *
 <!-- 자기소개 끝 -->
 
 <!-- 백준 알고리즘 레벨 시작 -->
 <div align='right'>
+   <div>
+<!--     asdasd -->
+   </div>
    <!--<h3><b>🔑 Algorithm Level 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;</b></h3>-->
    <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yi5oyu">
+
+
+
 </div>
 <!-- 백준 알고리즘 레벨 끝 -->
 
