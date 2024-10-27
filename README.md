@@ -82,7 +82,7 @@
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" alt="Nginx"><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Travis%20ci-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white">
+<img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 
 <br>
