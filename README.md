@@ -129,7 +129,16 @@
   <img src="https://img.shields.io/badge/Jenkins-CB3234?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
 <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> -->
 
-<!-- </details>-->
+<p>
+</p>
+
+<details>
+<summary>
+etc...
+</summary>
+ <br>
+이모지: https://github.com/ikatyang/emoji-cheat-sheet
+</details>
 
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>-->
@@ -138,7 +147,6 @@
 <!--<img src="https://img.shields.io/badge/Spring_Data_Redis-6DB33F?style=flat-square&logo=spring&logoColor=white"/> -->
 <!--<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>-->
 
-<br>
 
  ##  📖 [**Study**](https://github.com/yi5oyu/Study)
   - [**Spring Boot**](https://github.com/yi5oyu/Springboot)
