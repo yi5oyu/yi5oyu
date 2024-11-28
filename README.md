@@ -54,7 +54,7 @@
 
 </p>
 <p>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -101,7 +101,7 @@
 
 <!-- ide -->
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
@@ -137,7 +137,8 @@
 etc...
 </summary>
  <br>
-이모지: https://github.com/ikatyang/emoji-cheat-sheet
+이모지: https://github.com/ikatyang/emoji-cheat-sheet     
+뱃지: https://github.com/Ileriayo/markdown-badges     
 </details>
 
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>-->
