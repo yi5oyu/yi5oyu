@@ -137,7 +137,7 @@
 etc...
 </summary>
  <br>
-이모지: https://github.com/ikatyang/emoji-cheat-sheet     
+이모지: https://github.com/ikatyang/emoji-cheat-sheet<br>
 뱃지: https://github.com/Ileriayo/markdown-badges     
 </details>
 
