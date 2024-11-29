@@ -132,14 +132,6 @@
 <p>
 </p>
 
-<details>
-<summary>
-etc...
-</summary>
- <br>
-이모지: https://github.com/ikatyang/emoji-cheat-sheet<br>
-뱃지: https://github.com/Ileriayo/markdown-badges     
-</details>
 
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>-->
@@ -153,6 +145,15 @@ etc...
   - [**Spring Boot**](https://github.com/yi5oyu/Springboot)
   - [**React**](https://github.com/yi5oyu/react)
   - [**React Native**](https://github.com/yi5oyu/react-native)
+
+<details>
+<summary>
+README.md[Markdown]
+</summary>
+ <br>
+이모지: https://github.com/ikatyang/emoji-cheat-sheet<br>
+뱃지: https://github.com/Ileriayo/markdown-badges     
+</details>
 <hr>
 <h3><b> 💻 Project </b></h3>
 
