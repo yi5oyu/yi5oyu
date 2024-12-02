@@ -55,7 +55,7 @@
 </p>
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot 3-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"><br>
@@ -148,7 +148,7 @@
 
 <details>
 <summary>
-README.md[Markdown]
+Markdown
 </summary>
  <br>
 이모지: https://github.com/ikatyang/emoji-cheat-sheet<br>
