@@ -118,6 +118,20 @@
 <p>
 </p>
 
+<details>
+<summary>
+MarkUp
+</summary>
+ <br>
+
+ [MarkDown](https://github.com/yi5oyu/Study/tree/main/Markdown)    
+ [AsciiDoc](https://github.com/yi5oyu/Study/blob/main/SpringBoot/REST%20API/Testing/Spring%20REST%20Docs/AsciiDoc)
+ 
+[이모지](https://github.com/ikatyang/emoji-cheat-sheet)<br>
+[뱃지](https://github.com/Ileriayo/markdown-badges)
+
+</details>
+
 <!-- <details> -->
 <!-- <summary> -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 배우고 있는 Skills
@@ -146,14 +160,7 @@
   - [**React**](https://github.com/yi5oyu/react)
   - [**React Native**](https://github.com/yi5oyu/react-native)
 
-<details>
-<summary>
-Markdown
-</summary>
- <br>
-이모지: https://github.com/ikatyang/emoji-cheat-sheet<br>
-뱃지: https://github.com/Ileriayo/markdown-badges     
-</details>
+
 <hr>
 <h3><b> 💻 Project </b></h3>
 
