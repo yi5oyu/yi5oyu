@@ -164,14 +164,16 @@ MarkUp
 <hr>
 <h3><b> 💻 Project </b></h3>
 
- 
+- 팀 프로젝트
+  - [**Recipick**](https://github.com/yi5oyu/FOOD)&nbsp;&nbsp;&nbsp;( 2023.08 ~ 2023.11 )
 
 - 개인 프로젝트
   * [**가격표**](https://github.com/yi5oyu/pricetaglist)&nbsp;&nbsp;&nbsp;( 2024.03 ~ )
   * [**CashFlow**](https://github.com/yi5oyu/endpay)&nbsp;&nbsp;&nbsp;( 2024.01 ~ 2024.02 )
+ 
+
   * [**C# WPF**](https://github.com/yi5oyu/WPFMVVM)&nbsp;&nbsp;&nbsp;( 2021.02 ~ )
-- 팀 프로젝트
-  - [**Recipick**](https://github.com/yi5oyu/FOOD)&nbsp;&nbsp;&nbsp;( 2023.08 ~ 2023.11 )
+
     
 
 <hr>
