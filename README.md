@@ -205,21 +205,33 @@ Redis를 활용한 안정적인 시스템 설계와 성능 최적화의 중요�
 ---
 
 ### **[CashFlow](https://github.com/yi5oyu/endpay)** - 가계부 웹 서비스
-**지출 내역을 체계적으로 관리하고 시각화하여 돈 관리를 돕는 서비스**
+**지출 내역을 체계적으로 관리하고 시각화하여 돈 관리를 돕는 웹 서비스**
 > **개발**: 2024.01 ~ 2024.02    
-> **기술**: Java Spring, Spring Data JPA, Apache Tomcat 9, AWS, MySQL, JQuery
+> **기술**: Java Spring, Spring Data JPA, Apache Tomcat 9, AWS EC2/RDS, MySQL, JQuery
 
 ### 주요 특징
-- **REST API**: RESTful 설계 원칙에 따른 회원/지출 관리 API 구현
-- **SPA 방식**: AJAX 비동기 통신을 통한 새로고침 없는 페이지 이동
-- **데이터 시각화**: Chart.js를 활용한 도넛 차트, 라인 차트로 지출 패턴 분석
-- **클라우드 배포**: AWS EC2 서버 배포, AWS RDS MySQL 데이터베이스
+- **Spring Data JPA**: Repository 인터페이스 기반 자동 CRUD, 메서드명 쿼리 생성, 페이징/정렬 처리, @Transactional 트랜잭션 관리
+- **SPA(Single Page Application)**: AJAX 비동기 통신을 통한 새로고침 없는 페이지 이동으로 UX 개선
+- **클라우드 배포**: AWS EC2 서버 배포, AWS RDS MySQL 데이터베이스, 무료 도메인 연결
+
+### 개발 과정
+- **설계**: ERD 설계 및 JPA 엔티티 매핑, REST API 설계
+- **백엔드**: Spring + JPA 기반 개발, MVC 패턴 적용
+- **배포**: AWS EC2 인스턴스 생성, RDS MySQL 연동, Maven .war 파일 빌드
+- **도메인 연결**: 무료 도메인 서비스 활용, DNS 설정 
 
 ### 핵심 기능
-- 회원 관리: 회원가입/로그인, 정보 수정/삭제, 세션 기반 인증
+- 회원 관리: 회원가입/로그인, 정보 수정/삭제
 - 지출 관리: 지출 등록(정기/비정기/저축), 카테고리별 분류, CRUD 작업
-- 데이터 분석: 기간별 지출 조회, 카테고리별 통계, 월간/연간 지출 트렌드
-- UI/UX: 페이징 처리, 정렬 기능, Air Datepicker를 활용한 날짜 선택
+- 데이터 분석: 기간별 지출 조회, 카테고리별 통계, Chart.js를 활용한 시각화
+- **UI/UX**: JPA Pageable과 Sort를 활용한 동적 페이징 및 정렬 처리
+
+### 프로젝트 성과 및 학습 경험
+- **웹 서비스 구축**: AWS EC2/RDS 인프라 구성부터 도메인 연결까지 전체 배포 과정 경험
+- **클라우드 배포**: Maven .war 파일 빌드, AWS EC2 Linux 서버 접속 Tomcat 수동 배포, RDS MySQL 연동
+- **프론트엔드**: AJAX SPA 구현, Chart.js를 활용한 데이터 시각화, Air-datepicker 등 JavaScript 라이브러리 활용
+- **백엔드**: Spring Data JPA Repository 패턴, @Query 네이티브 SQL을 활용한 복잡한 쿼리 처리, 페이징/정렬 처리
+- **DB 마이그레이션**: Oracle에서 MySQL로 전환하며 의존성 충돌 해결 
 
 ---
 
