@@ -171,62 +171,33 @@ MarkUp
 <h3><b> 💻 Project </b></h3>
 
 ### **[가격표](https://github.com/yi5oyu/pricetaglist)** - 쿠팡 가격 변동 추적 웹 서비스
+**쿠팡 상품의 가격 변동을 추적하고 한눈에 알아보기 쉽게 만든 웹 서비스**
 > **개발**: 2024.03 ~ 2024.05    
-> **기술**: Java, Spring Boot 3, AWS EC2/RDS, Docker, Nginx, MySQL, Bootstrap, JPA, Git Actions
-
-"가격표"는 크롤링 쿠팡 가격변동을 추적하고 한눈에 알아보기 쉽게 만든 웹사이트     
-**대규모 트래픽 관리**와 **동시성 문제 해결**을 위한 Redis 기반의 아키텍처 설계를 주도하며, 성능 최적화에 집중했습니다.
-
-> **"안정적이고 효율적인 트래픽 처리는 시스템 신뢰성과 사용자 경험을 좌우하는 핵심 요소다."**
+> **기술**: Java, Spring Boot 3, AWS EC2/RDS, Docker, Nginx, MySQL, Bootstrap, JPA, GitHub Actions
 
 ### 주요 특징
-- **실시간 데이터 수집**: Jsoup을 활용한 쿠팡 상품 정보 크롤링
-- **가격 변동 시각화**: Chart.js를 통한 일별 가격 추이 그래프, 최저가/최고가/현재가 비교 분석
-- **성능 최적화**: 데이터베이스 인덱싱과 페이징으로 쿼리 성능 향상 (7초 → 0.2초)
-- **클라우드 인프라**: Docker 컨테이너화, Nginx 로드밸런싱, GitHub Actions CI/CD 파이프라인
+- **Spring Boot 3**: 자동 구성(Auto Configuration)을 통한 의존성 자동 설정, 내장 Tomcat 서버, 간소화된 .jar 파일 패키징
+- **배포 자동화**: GitHub Actions CI/CD 파이프라인 구축, Docker Hub 연동을 통한 컨테이너 기반 무중단 배포
+- **인프라**: AWS EC2/RDS 클라우드 환경, Nginx 로드밸런싱 및 리버스 프록시, Let's Encrypt HTTPS 인증서, 유료 도메인 DNS 설정/연결
+- **웹 크롤링**: Jsoup 기반 비동기 정적 크롤링, @Scheduled 스케줄링을 통한 자동화된 데이터 수집
 
 ### 개발 과정
-- **설계**: JPA Entity 기반 ERD 설계, 상품-판매자-가격정보 관계 모델링
-- **크롤링**: Jsoup 정적 크롤링, 카테고리별/브랜드별 상품 정보 수집, 일일 가격 데이터 스케줄링
-- **백엔드**: Spring Boot + JPA Repository 패턴, 비동기 크롤링 서비스, 검색/필터링 API
-- **최적화**: Spring AOP 성능 측정, 복합 인덱스 적용, 페이징 무한스크롤 구현
-- **배포**: AWS EC2/RDS 인프라, Docker Compose 다중 컨테이너, Let's Encrypt HTTPS 인증서
+- **설계**: Spring Boot 3 기반 아키텍처 설계, Entity-DTO 매핑 구조 설계, REST API 엔드포인트 설계
+- **백엔드**: MVC 패턴 적용, JPA Repository 패턴 구현, 비동기 크롤링 서비스 개발
+- **DevOps**: Docker 컨테이너화, GitHub Actions 워크플로우 구성, AWS 인프라 구축 및 보안 설정
+- **성능 최적화**: Spring AOP 기반 성능 모니터링, 복합 인덱스/페이징을 활용한 쿼리 N+1 문제 완화로 응답속도 개선 약(7초→0.2초)
+- **SEO 최적화**: 메타 태그 설정, 구글/네이버 웹마스터 도구 연동
 
 ### 핵심 기능
-- **가격 추적**: 일별 가격 변동 데이터 수집, 할인율/최저가 알림 시스템
-- **상품 검색**: 키워드 검색, 다중 필터링 (할인율순/가격순/품절임박/로켓배송)
-- **데이터 시각화**: 실시간 가격 그래프, 구매 추천 시점 안내, 반응형 카드 UI
-- **성능**: 무한스크롤 페이징, AJAX 비동기 로딩, 모바일 최적화
+- **가격 추적**: 일별 가격 변동 데이터 수집, 할인율/최저가 분석, 그래프(Chart.js)로 가격 변동 시각화
+- **상품 검색**: 키워드 검색, 다중 필터링 (할인율순/가격순/품절임박/로켓배송), 무한스크롤 페이징
+- **UI/UX**: 실시간 가격 그래프, 구매 추천 시점 안내, 반응형 카드 UI, 모바일 호환 반응형 웹
 
 ### 프로젝트 성과 및 학습 경험
-- **웹 크롤링**: Jsoup을 활용한 대용량 데이터 수집, 동적/정적 콘텐츠 처리 차이 이해, 크롤링 최적화 (요청 간격, User-Agent 설정)
-- **성능 최적화**: 데이터베이스 쿼리 성능 50배 개선 (인덱싱 + 페이징), Spring AOP를 활용한 실행 시간 측정 및 병목 지점 파악
-- **클라우드 인프라**: Docker 컨테이너화, Nginx 리버스 프록시 및 로드밸런싱, AWS EC2/RDS 운영 환경 구축
-- **CI/CD 파이프라인**: Travis CI에서 GitHub Actions로 마이그레이션, Docker Hub 자동 빌드/배포, 무중단 배포 환경 구축
-- **데이터 시각화**: Chart.js를 활용한 동적 그래프 렌더링, 가격 변동 패턴 분석 및 구매 추천 로직 구현
-- **대용량 데이터 처리**: 일일 수천 건의 상품 데이터 수집/저장, JPA 배치 처리 및 트랜잭션 관리
-
- 
-- **AWS**:
-  - EC2, RDS
-  - Redis Streams와 Lua 스크립트를 통해 실시간 이벤트의 **고부하 분산 처리**와 **원자적 응모 처리**를 구현했습니다.
-
-- **Docker**:
-  - 1초에 10만 트래픽을 10초간 처리할 수 있는 Redis 기반 아키텍처를 설계하고, 응답 시간을 27초에서 1.3초로 크게 단축했습니다.
-  - **Lua 스크립트를 통한 원자적 응모 처리**로 동시성 문제를 해결하고, 이벤트 응모의 안정성을 확보했습니다.
-
-- **쿼리 속도 개선**:
-  - **K6 부하 테스트**를 통해 성능 목표를 수립하고 시나리오를 작성하여 성능을 지속적으로 개선했습니다.
-  - 초기 성능 테스트 결과인 **성공률 73%, 최대 응답 시간 27초**를 최적화 후 **성공률 100%, 최대 응답 시간 1.3초**로 크게 개선했습니다.
-
-- **Nginx**:
-  - Redis Streams 기반의 비동기 큐 시스템을 구축해 실시간 트래픽의 순차 처리와 고부하 분산을 성공적으로 수행했습니다.
-
-- **CI**:
-  - a
-
-이 프로젝트를 통해 **대규모 트래픽 처리와 동시성 문제 해결**이라는 백엔드의 핵심 과제를 경험하며,  
-Redis를 활용한 안정적인 시스템 설계와 성능 최적화의 중요한 경험을 쌓을 수 있었습니다.
+- **Spring Boot 3**: 기존 Spring에서 Spring Boot 3로 전환하여 Gradle 빌드 도구 활용, starter를 통한 의존성 설정 간소화
+- **프론트엔드**: Thymeleaf 템플릿 엔진과 Bootstrap 5를 활용한 UI
+- **Docker**: Docker 이미지 생성, Docker Hub 연동, Docker Compose로 다중 컨테이너 사용
+- **CI/CD**: Travis CI에서 GitHub Actions로 CI/CD 파이프라인 전환, 빌드 스크립트 작성
 
 ---
 
@@ -254,9 +225,10 @@ Redis를 활용한 안정적인 시스템 설계와 성능 최적화의 중요�
 
 ### 프로젝트 성과 및 학습 경험
 - **웹 서비스 구축**: AWS EC2/RDS 인프라 구성부터 도메인 연결까지 전체 배포 과정 경험
-- **클라우드 배포**: Maven .war 파일 빌드, AWS EC2 Linux 서버 접속 Tomcat 수동 배포, RDS MySQL 연동
+- **배포**: Maven .war 파일 빌드, AWS EC2 Linux 서버 접속 Tomcat 수동 배포, RDS MySQL 연동
 - **프론트엔드**: AJAX SPA 구현, Chart.js를 활용한 데이터 시각화, Air-datepicker 등 JavaScript 라이브러리 활용
 - **백엔드**: Spring Data JPA Repository 패턴, @Query 네이티브 SQL을 활용한 복잡한 쿼리 처리, 페이징/정렬 처리
+- **ORM(Object-Relational Mapping)**: Mybatis SQL Mapper에서 Spring Data JPA로 전환, 메서드명 기반 쿼리로 개발 생산성/유지보수 향상
 - **DB 마이그레이션**: Oracle에서 MySQL로 전환하며 의존성 충돌 해결 
 
 ---
@@ -268,13 +240,13 @@ Redis를 활용한 안정적인 시스템 설계와 성능 최적화의 중요�
 
 ### 주요 특징
 - **웹 애플리케이션**: Spring Framework를 기반으로 MVC 패턴 적용
-- **반응형 웹**: @Media CSS를 활용한 모바일/데스크톱 대응
+- **반응형 웹**: @Media CSS를 활용한 모바일/데스크톱 대응 반응형 웹
 - **REST API**: CRUD 기능을 RESTful API로 구현
 - **사용자 경험**: 세션/쿠키 기반 최근 본 레시피 기능, 페이징 처리
 
 ### 개발 과정
 - **1차**: HTML/CSS 기반 UI 설계 및 반응형 웹페이지 구현
-- **2차**: JavaScript와 AJAX를 활용한 동적 기능 개발, Tiles를 이용한 UI 템플릿 구성
+- **2차**: JavaScript와 AJAX를 활용한 동적 기능 개발, Tiles 템플릿을 사용한 UI 템플릿 구성
 - **3차**: Spring + Mybatis 기반 백엔드 개발, Oracle DB 설계 및 CRUD 구현
 
 ### 핵심 기능
@@ -283,7 +255,7 @@ Redis를 활용한 안정적인 시스템 설계와 성능 최적화의 중요�
 - **커뮤니티**: 댓글/대댓글, 후기 작성, 게시판 (최신순/조회순 정렬)
 
 ### 프로젝트 성과 및 학습 경험
-- **Java 객체지향 프로그래밍**: Java 핵심 개념 학습 후 웹 애플리케이션 적용
+- **Java 객체지향 프로그래밍**: Java 핵심 개념 학습 후 웹 애플리케이션 프로젝트
 - **프론트엔드**: HTML/CSS UI, JavaScript DOM 조작 및 이벤트 처리, JQuery를 통한 동적 UI 개발
 - **백엔드**: Spring MVC 패턴 적용, Mybatis ORM을 통한 Oracle DB 연동, JSP/Servlet 기반 SSR(서버사이드 렌더링) 구현
 - **REST API & 비동기 통신**: RESTful API 설계 원칙에 따른 HTTP 메서드 활용(GET, POST, PUT, DELETE) 및 AJAX를 통한 JSON 데이터 비동기 통신으로 새로고침 없는 사용자 경험 구현
@@ -291,7 +263,7 @@ Redis를 활용한 안정적인 시스템 설계와 성능 최적화의 중요�
 
 ---
 
-  * [**C# WPF**](https://github.com/yi5oyu/WPFMVVM)&nbsp;&nbsp;&nbsp;( 2021.02 ~ )
+- [**C# WPF**](https://github.com/yi5oyu/WPFMVVM)&nbsp;&nbsp;&nbsp;( 2021.02 ~ )
 
     
 
