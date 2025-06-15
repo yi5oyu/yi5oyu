@@ -176,16 +176,18 @@ MarkUp
 > **기술**: Java Spring Boot 3, React, Spring AI (Anthropic/OpenAI), GitHub OAuth, MySQL, Redis, SSE, Vite, Gradle
 
 ### 주요 특징
-- **Spring Boot 3 + React**: 풀스택 웹 애플리케이션, RESTful API 설계, 모던 SPA 구조
 - **Spring AI 통합**: Anthropic Claude 및 OpenAI GPT 모델 연동, 실시간 AI 채팅 어시스턴트, SSE(Server-Sent Events) 스트리밍 응답
-- **GitHub OAuth 연동**: GitHub 계정 로그인, 레포지토리 파일 직접 편집/저장, Git API 활용한 커밋/푸시
-- **실시간 마크다운 에디터**: GFM(GitHub Flavored Markdown) 지원, 실시간 미리보기, 4가지 편집 모드(노트/템플릿/메모/깃허브)
+- **React + Vite**: 풀스택 웹 애플리케이션, RESTful API 설계, 모던 SPA 구조, CSR
+- **CDN(Content Delivery Network)**: C
+- **시놀로지 NAS 서버(온프레미스?)**-
+- **모니터링**: Spring Actuator 매트릭 수집, Portainer, Prometheus, Grafana
 
 ### 개발 과정
 - **설계**: React + Spring Boot 풀스택 아키텍처 설계, Spring AI 기반 챗봇 시스템 설계, GitHub API 연동 구조 설계
+- **프론트엔드**: React 컴포넌트 기반 UI 설계, Chakra UI, Vite 빌드 도구 활용
 - **백엔드**: Spring Security OAuth2 인증 구현, JPA Repository 패턴, Redis 세션 관리, SSE 실시간 통신
-- **프론트엔드**: React 컴포넌트 기반 UI 설계, Chakra UI를 활용한 반응형 웹, Vite 빌드 도구 활용
 - **AI 통합**: Spring AI Framework 활용, 프롬프트 엔지니어링, 스트리밍 응답 처리, 채팅 세션 관리
+- **MCP 서버**:
 
 ### 핵심 기능
 - **마크다운 에디터**: 실시간 미리보기, 문법 하이라이팅, 4가지 편집 모드별 특화 기능
