@@ -205,6 +205,7 @@ MarkUp
 - **모던 프론트엔드**: React Hooks 기반 상태 관리, Chakra UI 컴포넌트 라이브러리, Vite 빌드 최적화
 - **클라우드 서비스 연동**: GitHub API 활용, Redis 캐시 시스템, MySQL 데이터베이스 연동
 
+---
 
 ### **[가격표](https://github.com/yi5oyu/pricetaglist)** - 쿠팡 가격 변동 추적 웹 서비스
 **쿠팡 상품의 가격 변동을 추적하고 한눈에 알아보기 쉽게 만든 웹 서비스**
