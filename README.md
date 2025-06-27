@@ -170,40 +170,42 @@ MarkUp
 
 <h3><b> 💻 Project </b></h3>
 
-### **[WriteMD](https://github.com/yi5oyu/writemd)** - AI 기반 마크다운 에디터 웹 서비스
-**AI 어시스턴트와 함께하는 마크다운 문서 작성 및 GitHub 연동 플랫폼**
+### **[WriteMD](https://github.com/yi5oyu/writemd)** - 마크다운 문서작성 AI 웹 서비스
+**마크다운 문서 작성을 쉽고 빠르게 하기 위한 GitHub와 AI를 연동한 웹 서비스**
 > **개발**: 2025.01 ~ 2025.06    
-> **기술**: Java Spring Boot 3, React, Spring AI (Anthropic/OpenAI), GitHub OAuth, MySQL, Redis, SSE, Vite, Gradle
+> **기술**: Java Spring Boot 3, Python, React + Vite, Spring AI, MySQL, Redis, JPA + QueryDSL, Docker, GitHub Actions, Nginx
 
 ### 주요 특징
-- **Spring AI 통합**: Anthropic Claude 및 OpenAI GPT 모델 연동, 실시간 AI 채팅 어시스턴트, SSE(Server-Sent Events) 스트리밍 응답
-- **React + Vite**: 풀스택 웹 애플리케이션, RESTful API 설계, 모던 SPA 구조, CSR
-- **CDN(Content Delivery Network)**: C
-- **시놀로지 NAS 서버(온프레미스?)**-
-- **모니터링**: Spring Actuator 매트릭 수집, Portainer, Prometheus, Grafana
+- **Spring AI 통합**: Anthropic Claude 및 OpenAI GPT 모델 연동, AI 채팅, MCP 프로토콜
+- **React + Vite**: 풀스택 웹 애플리케이션, Custom Hook, CSR(Client-side Rendering)
+- **CI/CD**: GitHub Actions 빌드 + Self-hosted GitHub Runner 배포
+- **자체 인프라**: 개인 서버(시놀로지 NAS) 환경 기반 웹서비스 운영, Cloudflare CDN/보안, Docker Compose 멀티 컨테이너
+- **모니터링**: Spring Actuator 매트릭 수집, Portainer 컨테이너 관리, Prometheus/Grafana 대시보드
 
 ### 개발 과정
-- **설계**: React + Spring Boot 풀스택 아키텍처 설계, Spring AI 기반 챗봇 시스템 설계, GitHub API 연동 구조 설계
-- **프론트엔드**: React 컴포넌트 기반 UI 설계, Chakra UI, Vite 빌드 도구 활용
-- **백엔드**: Spring Security OAuth2 인증 구현, JPA Repository 패턴, Redis 세션 관리, SSE 실시간 통신
+- **설계**: 개발 컨벤션 작성, React + Spring Boot 풀스택 아키텍처, Spring AI 기반 서비스, GitHub API 연동
+- **프론트엔드**: Vite 개발 환경 구축, Chakra UI 컴포넌트 시스템 설계, Custom Hook 기반 상태 관리
+- **백엔드**: Spring Security OAuth2 인증, JPA + QueryDSL 데이터 액세스, Redis 세션/캐시, SSE 실시간 통신
 - **AI 통합**: Spring AI Framework 활용, 프롬프트 엔지니어링, 스트리밍 응답 처리, 채팅 세션 관리
-- **MCP 서버**:
+- **MCP**: Spring AI MCP Client, Python FastMCP 기반 MCP Server 구축, GitHub API 연동 툴 개발
+- **DevOps**: Docker Compose 멀티 컨테이너 환경 구성, GitHub Actions CI/CD 파이프라인, Self-hosted Runner 배포 자동화, Cloudflare Tunnel
+- **모니터링**: 실시간 성능 모니터링 환경 구축
 
 ### 핵심 기능
-- **마크다운 에디터**: 실시간 미리보기, 문법 하이라이팅, 4가지 편집 모드별 특화 기능
-- **AI 어시스턴트**: Claude/GPT 선택적 사용, 마크다운 문서 작성 지원, 실시간 스트리밍 채팅
-- **GitHub 연동**: OAuth 로그인, 레포지토리 파일 탐색/편집, 직접 커밋/푸시 기능
-- **템플릿 시스템**: 사용자 정의 템플릿 생성/관리, GitHub Issue/PR 템플릿 제공
-- **세션 관리**: Redis 기반 사용자 세션, 채팅 히스토리 저장, 실시간 상태 동기화
+- **마크다운 에디터**: Monaco Editor, 실시간 미리보기, Mermaid.js 다이어그램 지원, 슬래시 커맨드(/badge, /list)
+- **AI**: 개인 API 키 관리, Claude/GPT 다중 모델 선택, 토큰 사용량 추적, SSE 실시간 스트리밍 AI 채팅
+- **GitHub 연동**: OAuth2 인증, 사용자 GitHub Repository 목록/파일 관리, GitHub API 기반 파일 내용 생성/수정
+- **문서 관리**: 5가지 편집 모드, 자동 저장, 각 모드별 검색/정렬 필터링, 채팅 히스토리 관리
+- **MCP Tools**: 마크다운 문서 검토 및 개선 제안, Github Repository 단계별 분석
 
 ### 프로젝트 성과 및 학습 경험
-- **풀스택 개발**: React 프론트엔드와 Spring Boot 백엔드 통합 개발, RESTful API 설계 및 구현
-- **AI 통합**: Spring AI Framework를 활용한 LLM 모델 연동, SSE를 통한 실시간 스트리밍 응답 구현
-- **OAuth 인증**: GitHub OAuth2 연동, Spring Security 기반 인증/인가 시스템 구축
-- **실시간 통신**: Server-Sent Events를 활용한 실시간 데이터 스트리밍, 비동기 통신 처리
-- **코드 품질 관리**: Checkstyle(Java), ESLint/Prettier(JavaScript) 도입, GitHub Flow 브랜치 전략 적용
-- **모던 프론트엔드**: React Hooks 기반 상태 관리, Chakra UI 컴포넌트 라이브러리, Vite 빌드 최적화
-- **클라우드 서비스 연동**: GitHub API 활용, Redis 캐시 시스템, MySQL 데이터베이스 연동
+- **컨벤션**: Checkstyle/ESLint/Prettier 정적 분석 오토포메팅, 개발 컨벤션 문서화, GitHub Flow 브랜치 전략 적용
+- **풀스택 개발**: React + Vite 기반 SPA, Spring Boot 3 백엔드 API, 프론트엔드-백엔드 분리 아키텍처
+- **AI 프레임워크 활용**: Spring AI Framework를 활용한 LLM 모델 연동, MCP(Model Context Protocol) 클라이언트/Python을 사용한 서버 구축, SSE를 통한 실시간 스트리밍 응답 구현
+- **자체 인프라**: 개인 서버 네트워크 설정, 서버 아웃바운드 Cloudflare Tunnel 구성, Cloudflare Zero Trust 연결
+- **모니터링**: Portainer로 컨테이너 리소스 확인, Prometheus PromQL 쿼리 작성, Grafana 대시보드 구성 및 임계값 설정
+- **데이터 관리**: Redis 기반 세션 관리 및 캐싱, MySQL 관계형 데이터베이스, JPA + QueryDSL 데이터 액세스
+<!-- - **성능 최적화**: 모니터링으로 문제 파악후 개선. AI 응답 지연 XX초→XX초 개선, Redis 캐시 적중률 XX% 향상, Docker 메모리 사용량 XX% 절감, Grafana 대시보드 기반 병목점 식별 -->
 
 ---
 
@@ -256,9 +258,9 @@ MarkUp
 - **도메인 연결**: 무료 도메인 서비스 활용, DNS 설정 
 
 ### 핵심 기능
-- 회원 관리: 회원가입/로그인, 정보 수정/삭제
-- 지출 관리: 지출 등록(정기/비정기/저축), 카테고리별 분류, CRUD 작업
-- 데이터 분석: 기간별 지출 조회, 카테고리별 통계, Chart.js를 활용한 시각화
+- **회원 관리**: 회원가입/로그인, 정보 수정/삭제
+- **지출 관리**: 지출 등록(정기/비정기/저축), 카테고리별 분류, CRUD 작업
+- **데이터 분석**: 기간별 지출 조회, 카테고리별 통계, Chart.js를 활용한 시각화
 - **UI/UX**: JPA Pageable과 Sort를 활용한 동적 페이징 및 정렬 처리
 
 ### 프로젝트 성과 및 학습 경험
