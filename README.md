@@ -235,7 +235,7 @@ MarkUp
 - **프론트엔드**: Thymeleaf 템플릿 엔진과 Bootstrap 5를 활용한 UI
 - **Docker**: Docker 이미지 생성, Docker Hub 연동, Docker Compose로 다중 컨테이너 사용
 - **CI/CD**: Travis CI에서 GitHub Actions로 CI/CD 파이프라인 전환, 빌드 스크립트 작성
-- **서비스 운영**: Travis ci 토큰, AWS 과금 private 변경...
+- **서비스 운영**: Travis CI 무료 크레딧 소진으로 GitHub Actions 전환, AWS IPv4 과금 정책 변경에 따른 RDS private 서브넷 마이그레이션
 
 ---
 
