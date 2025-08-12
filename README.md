@@ -285,7 +285,7 @@ MarkUp
 ---
 
 ### **[Recipick](https://github.com/yi5oyu/FOOD)** - 요리 레시피 공유 웹 애플리케이션
- **레시피 등록/공유 플랫폼으로 사용자 간 요리 정보 교환 서비스**
+ **사용자들이 레시피를 등록하고 공유할 수 있는 웹 어플리케이션**
 > **개발**: 2023.08 ~ 2023.12    
 > **주요 기술 스택**: Java Spring, Mybatis, Apache Tomcat 9, Oracle, JQuery
 
