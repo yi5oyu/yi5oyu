@@ -186,6 +186,9 @@ MarkUp
 > **개발**: 2025.01 ~ 2025.06    
 > **기술**: Java Spring Boot 3, Python, React + Vite, Spring AI, MySQL, Redis, JPA + QueryDSL, Docker, GitHub Actions, Nginx
 
+<details>
+<summary><b>📋 상세 정보 보기</b></summary>
+
 ### 주요 특징
 - **Spring AI 통합**: Anthropic Claude 및 OpenAI GPT 모델 연동, AI 채팅, MCP 프로토콜
 - **React + Vite**: 풀스택 웹 애플리케이션, Custom Hook, CSR(Client-side Rendering)
@@ -218,12 +221,17 @@ MarkUp
 - **데이터 관리**: Redis 기반 세션 관리 및 캐싱, MySQL 관계형 데이터베이스, JPA + QueryDSL 데이터 액세스
 <!-- - **성능 최적화**: 모니터링으로 문제 파악후 개선. AI 응답 지연 XX초→XX초 개선, Redis 캐시 적중률 XX% 향상, Docker 메모리 사용량 XX% 절감, Grafana 대시보드 기반 병목점 식별 -->
 
+</details>
+
 ---
 
 ### **[가격표](https://github.com/yi5oyu/pricetaglist)** - 쿠팡 가격 변동 추적 웹 서비스
 **쿠팡 상품의 가격 변동을 추적하고 한눈에 알아보기 쉽게 만든 웹 서비스**
 > **개발**: 2024.03 ~ 2024.05    
 > **기술**: Java, Spring Boot 3, AWS EC2/RDS, Docker, Nginx, MySQL, Bootstrap, JPA, GitHub Actions
+
+<details>
+<summary><b>📋 상세 정보 보기</b></summary>
 
 ### 주요 특징
 - **Spring Boot 3**: 자동 구성(Auto Configuration)을 통한 의존성 자동 설정, 내장 Tomcat 서버, 간소화된 .jar 파일 패키징
@@ -250,12 +258,17 @@ MarkUp
 - **CI/CD**: Travis CI에서 GitHub Actions로 CI/CD 파이프라인 전환, 빌드 스크립트 작성
 - **서비스 운영**: Travis CI 무료 크레딧 소진으로 GitHub Actions 전환, AWS IPv4 과금 정책 변경에 따른 RDS private 서브넷 마이그레이션
 
+</details>
+
 ---
 
 ### **[CashFlow](https://github.com/yi5oyu/endpay)** - 가계부 웹 서비스
 **지출 내역을 체계적으로 관리하고 시각화하여 돈 관리를 돕는 웹 서비스**
 > **개발**: 2024.01 ~ 2024.02    
 > **기술**: Java Spring, Spring Data JPA, Apache Tomcat 9, AWS EC2/RDS, MySQL, JQuery
+
+<details>
+<summary><b>📋 상세 정보 보기</b></summary>
 
 ### 주요 특징
 - **Spring Data JPA**: Repository 인터페이스 기반 자동 CRUD, 메서드명 쿼리 생성, 페이징/정렬 처리, @Transactional 트랜잭션 관리
@@ -282,12 +295,17 @@ MarkUp
 - **ORM(Object-Relational Mapping)**: Mybatis SQL Mapper에서 Spring Data JPA로 전환, 메서드명 기반 쿼리로 개발 생산성/유지보수 향상
 - **DB 마이그레이션**: Oracle에서 MySQL로 전환하며 의존성 충돌 해결 
 
+</details>
+
 ---
 
 ### **[Recipick](https://github.com/yi5oyu/FOOD)** - 요리 레시피 공유 웹 애플리케이션
  **사용자들이 레시피를 등록하고 공유할 수 있는 웹 어플리케이션**
 > **개발**: 2023.08 ~ 2023.12    
 > **주요 기술 스택**: Java Spring, Mybatis, Apache Tomcat 9, Oracle, JQuery
+
+<details>
+<summary><b>📋 상세 정보 보기</b></summary>
 
 ### 주요 특징
 - **웹 애플리케이션**: Spring Framework를 기반으로 MVC 패턴 적용
@@ -311,6 +329,8 @@ MarkUp
 - **백엔드**: Spring MVC 패턴 적용, Mybatis ORM을 통한 Oracle DB 연동, JSP/Servlet 기반 SSR(서버사이드 렌더링) 구현
 - **REST API & 비동기 통신**: RESTful API 설계 원칙에 따른 HTTP 메서드 활용(GET, POST, PUT, DELETE) 및 AJAX를 통한 JSON 데이터 비동기 통신으로 새로고침 없는 사용자 경험 구현
 - **팀 협업**: Git/SourceTree를 활용한 버전 관리 및 충돌 해결, 팀원 간 협의를 통한 프로젝트 방향성 수정 및 스토리보드 개선
+
+</details>
 
 ---
 
