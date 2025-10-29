@@ -184,7 +184,7 @@ MarkUp
 ### **[WriteMD](https://github.com/yi5oyu/writemd)** - 마크다운 문서작성 AI 웹 서비스
 **마크다운 문서 작성을 쉽고 빠르게 하기 위한 GitHub와 AI를 연동한 웹 서비스**
 > **개발**: 2025.01 ~ 2025.06    
-> **기술**: Java Spring Boot 3, Python, React + Vite, Spring AI, MySQL, Redis, JPA + QueryDSL, Docker, GitHub Actions, Nginx
+> **기술**: Java Spring Boot 3, Python, React + Vite, Spring AI + MCP, MySQL, Redis, JPA + QueryDSL, Docker, GitHub Actions, Nginx
 
 <details>
 <summary><b>📋 상세 정보 보기</b></summary>
