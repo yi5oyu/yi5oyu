@@ -175,7 +175,7 @@ MarkUp
   - [**DB**](https://github.com/yi5oyu/DB)
   - [**React**](https://github.com/yi5oyu/react)
   - [**React Native**](https://github.com/yi5oyu/react-native)
-
+  - [**AI**](https://github.com/yi5oyu/AI)
 
 <hr>
 
