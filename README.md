@@ -81,10 +81,11 @@
 </p>
 <p>
 <!-- db -->
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
 <br>
 <!-- WS -->
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
@@ -172,10 +173,13 @@ MarkUp
 
  ##  📖 [**Study**](https://github.com/yi5oyu/Study)
   - [**Spring Boot**](https://github.com/yi5oyu/Springboot)
-  - [**DB**](https://github.com/yi5oyu/DB)
+  - [**DB**](https://github.com/yi5oyu/DB) 
+  - [**AI**](https://github.com/yi5oyu/AI)
   - [**React**](https://github.com/yi5oyu/react)
   - [**React Native**](https://github.com/yi5oyu/react-native)
-  - [**AI**](https://github.com/yi5oyu/AI)
+  - [**Git**](https://github.com/yi5oyu/Git)
+
+<!--  - [**Python**](https://github.com/yi5oyu/python) -->
 
 <hr>
 
