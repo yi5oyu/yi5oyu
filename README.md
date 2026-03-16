@@ -265,7 +265,7 @@ Tools
 ### **[CashFlow](https://github.com/yi5oyu/endpay)** - 가계부 웹 서비스
 **지출 내역을 체계적으로 관리하고 시각화하여 돈 관리를 돕는 웹 서비스**
 > **개발**: 2024.01 ~ 2024.02    
-> **기술**: Java Spring, Spring Data JPA, Apache Tomcat 9, AWS EC2/RDS, MySQL, JQuery
+> **기술**: Java 8, Spring Framework 5.x, Spring Data JPA, Apache Tomcat 9, AWS EC2/RDS, MySQL, JQuery
 
 <details>
 <summary><b>📋 상세 정보 보기</b></summary>
@@ -302,7 +302,7 @@ Tools
 ### **[Recipick](https://github.com/yi5oyu/FOOD)** - 요리 레시피 공유 웹 애플리케이션
  **사용자들이 레시피를 등록하고 공유할 수 있는 웹 어플리케이션**
 > **개발**: 2023.08 ~ 2023.12    
-> **주요 기술 스택**: Java Spring, Mybatis, Apache Tomcat 9, Oracle, JQuery
+> **주요 기술 스택**: Java 6, Spring Framework 4.x, Mybatis, Apache Tomcat 9, Oracle 21, JQuery
 
 <details>
 <summary><b>📋 상세 정보 보기</b></summary>
