@@ -4,8 +4,9 @@
 <div>
 <br>
 
- 
+<!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=5cc4ef&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Lee+Gi-Young++&nbsp;&nbsp;&nbsp;)
+-->
 
 <!--https://github.com/kyechan99/capsule-render
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=black&height=70&section=header&text=Study%Reference%Components&fontSize=16&&fontColor=FFFFFF&animation=fadeIn)
@@ -184,7 +185,7 @@ Tools
 ### **[WriteMD](https://github.com/yi5oyu/writemd)** - 마크다운 문서작성 AI 웹 서비스
 **마크다운 문서 작성을 쉽고 빠르게 하기 위한 GitHub와 AI를 연동한 웹 서비스**
 > **개발**: 2025.01 ~ 2025.06    
-> **기술**: Java Spring Boot 3, Python, React + Vite, Spring AI + MCP, MySQL, Redis, JPA + QueryDSL, Docker, GitHub Actions, Nginx
+> **기술**: Java 17, Spring Boot 3.x, Python, React + Vite, Spring AI + MCP, MySQL 8.0, Redis, JPA + QueryDSL, Docker, GitHub Actions, Nginx
 
 <details>
 <summary><b>📋 상세 정보 보기</b></summary>
@@ -219,6 +220,7 @@ Tools
 - **자체 인프라**: 개인 서버 네트워크 설정, 서버 아웃바운드 Cloudflare Tunnel 구성, Cloudflare Zero Trust 연결
 - **모니터링**: Portainer로 컨테이너 리소스 확인, Prometheus PromQL 쿼리 작성, Grafana 대시보드 구성 및 임계값 설정
 - **데이터 관리**: Redis 기반 세션 관리 및 캐싱, MySQL 관계형 데이터베이스, JPA + QueryDSL 데이터 액세스
+- **K6 부하테스트**: Tomcat 스레드 풀(500)과 HikariCP 커넥션 풀(30)을 튜닝해 동시 접속자 500명 기준 P95 응답시간 366ms 이내 처리량 처
 <!-- - **성능 최적화**: 모니터링으로 문제 파악후 개선. AI 응답 지연 XX초→XX초 개선, Redis 캐시 적중률 XX% 향상, Docker 메모리 사용량 XX% 절감, Grafana 대시보드 기반 병목점 식별 -->
 
 </details>
@@ -228,7 +230,7 @@ Tools
 ### **[가격표](https://github.com/yi5oyu/pricetaglist)** - 쿠팡 가격 변동 추적 웹 서비스
 **쿠팡 상품의 가격 변동을 추적하고 한눈에 알아보기 쉽게 만든 웹 서비스**
 > **개발**: 2024.03 ~ 2024.05    
-> **기술**: Java, Spring Boot 3, AWS EC2/RDS, Docker, Nginx, MySQL, Bootstrap, JPA, GitHub Actions
+> **기술**: Java 17, Spring Boot 3.x, AWS EC2/RDS, Docker, Nginx, MySQL 8.0, Bootstrap, JPA, GitHub Actions
 
 <details>
 <summary><b>📋 상세 정보 보기</b></summary>
