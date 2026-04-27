@@ -1,32 +1,94 @@
-<!-- 자기소개 시작 -->
+<div align='left'><h3><b>🛠 Skills </b></h3>
 
-
-<div>
-<br>
-
-<!--
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=5cc4ef&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Lee+Gi-Young++&nbsp;&nbsp;&nbsp;)
--->
-
-<!--https://github.com/kyechan99/capsule-render
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=black&height=70&section=header&text=Study%Reference%Components&fontSize=16&&fontColor=FFFFFF&animation=fadeIn)
--->
-
+<div align='right'>
+   
+   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yi5oyu">
+   
 </div>
 
-* * *
+<!-- react-native, github action -->
+<!-- front -->
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
-<!-- <details> -->
-<!-- <summary> -->
-<!--  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 배우고 있는 Skills
-<!-- </summary> -->
-<!--<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square&logo=mybatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/JSTL-007396?style=flat-square&logo=java&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/EL-007396?style=flat-square&logo=java&logoColor=white"/> -->
+ 
+<br>
+<!-- <img src="https://img.shields.io/badge/Mustache-724E58?style=flat-square&logo=mustache&logoColor=white"/> -->
 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <!-- <img src="https://jwt.io/img/logo-asset.svg" height="20"> -->
-<!--  <img src="https://img.shields.io/badge/Jenkins-CB3234?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
-<!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/REST_API-004040?style=flat-square&logo=rest&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0058ED?style=flat-square&logo=fastapi&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
+<br>
 
+</p>
+<p>
+<!-- db -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+
+<br>
+<!-- WS -->
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+<br>
+<!-- Infra -->
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Amazon_Linux-2023-232F3E?style=flat-square&logo=Amazon&logoColor=white"/> --> 
+<br>
+<!-- CI/CD -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=travisci&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<br>
+<!--Monitoring -->
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+</p>
+<!-- -->
+
+<!-- ide -->
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<!-- 
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+-->
+<br>
 <p>
 </p>
 
@@ -40,12 +102,6 @@
 
 
  ##  📖 [**Study**](https://github.com/yi5oyu/Study)
-
-<div align='right'>
-   
-   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yi5oyu">
-   
-</div>
  
   - [**Spring Boot**](https://github.com/yi5oyu/Springboot)
   - [**DB**](https://github.com/yi5oyu/DB) 
@@ -54,15 +110,13 @@
   - [**React Native**](https://github.com/yi5oyu/react-native)
   - [**Git**](https://github.com/yi5oyu/Git)
 
-
-
 <details>
 <summary>
 Tools
 </summary>
  <br>
 
-[다이어그램](https://excalidraw.com/)
+ - [Excalidraw](https://excalidraw.com/)
 
 </details>
 
@@ -73,7 +127,7 @@ Tools
 
 <details>
 <summary> 
-💻 Project 
+Project 
 </summary>
 
 ### **[WriteMD](https://github.com/yi5oyu/writemd)** - 마크다운 문서작성 AI 웹 서비스
